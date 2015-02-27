@@ -2,9 +2,5 @@
 This is test repo
 eee
 ええ
-<<<<<<< HEAD
-=======
+えええ
 ええええ
-おおおお
-かかか
->>>>>>> branch7
